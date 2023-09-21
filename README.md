@@ -50,4 +50,11 @@
  ### 6.5 Transmisores y receptores ópticos
  ### 6.6 Comunicación por infrarrojo
 
+## SEÑAL ANALGOICA
+ ### Una señal analógica es una señal generada por algún tipo de fenómeno electromagnético; que es representable por una función matemática continua en la que es    variable su amplitud y periodo en función del tiempo.
+
+## SEÑAL DIGITAL
+### La señal digital es un tipo de señal en que cada signo que codifica el contenido de la misma puede ser analizado en término de algunas magnitudes que representan valores discretos, en lugar de valores dentro de un cierto rango.
+
+### Una señal analógica es continua, y puede tomar infinitos valores. Una señal digital es discontinua, y sólo puede tomar dos valores o estados: 0 y 1
 
